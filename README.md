@@ -27,11 +27,13 @@
    ```bash
    git clone https://github.com/iv-galkin/face-recognition.git
    ```
-
+Colab%20Notebooks/Face_Recognition_CE_Loss_and_ArcFace_loss.ipynb
+Colab%20Notebooks/Full_Face_Recognition_Pipeline.ipynb
+Colab%20Notebooks/Identification_Rate_Metric.ipynb
 ### Подробности 
-- Цикл обучения моделей подробно описан в ноутбуке [Открыть ноутбук Face Recognition](Colab%20Notebooks/Face_Recognition.ipynb)
-- Реализация Identification Rate Metric и её подсчёт описан в [Открыть ноутбук Identification Rate](Colab%20Notebooks/Face_Recognition.ipynb)
-- Обучение нейросети на задачу поиска ключевых точек и применение полного пайплайна для распознавания лиц смотреть в [Открыть ноутбук ](Colab%20Notebooks/Face_Recognition.ipynb)
+- Цикл обучения моделей подробно описан в ноутбуке [Открыть ноутбук Face Recognition](Colab%20Notebooks/Face_Recognition_CE_Loss_and_ArcFace_loss.ipynb)
+- Реализация Identification Rate Metric и её подсчёт описан в [Открыть ноутбук Identification Rate](Colab%20Notebooks/Identification_Rate_Metric.ipynb)
+- Обучение нейросети на задачу поиска ключевых точек и применение полного пайплайна для распознавания лиц смотреть в [Открыть ноутбук Face Recognition Pipeline](Colab%20Notebooks/Full_Face_Recognition_Pipeline.ipynb)
 
 ### Литература 
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf)
