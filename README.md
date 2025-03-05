@@ -29,9 +29,6 @@
    ```bash
    git clone https://github.com/iv-galkin/face-recognition.git
    ```
-Colab%20Notebooks/Face_Recognition_CE_Loss_and_ArcFace_loss.ipynb
-Colab%20Notebooks/Full_Face_Recognition_Pipeline.ipynb
-Colab%20Notebooks/Identification_Rate_Metric.ipynb
 
 ---
 
@@ -41,6 +38,9 @@ Colab%20Notebooks/Identification_Rate_Metric.ipynb
 - Обучение нейросети на задачу поиска ключевых точек и применение полного пайплайна для распознавания лиц смотреть в [Открыть ноутбук Face Recognition Pipeline](Colab%20Notebooks/Full_Face_Recognition_Pipeline.ipynb)
 
 --- 
+
+## Используемые технологии
+Google Colab, pytorch, scikit-learn, numpy, pandas, matplotlib, scikit-image
 
 ## Литература 
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf)
