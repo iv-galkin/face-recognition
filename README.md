@@ -1,4 +1,4 @@
-# Система распознавания лиц с ArcFace и Identification Rate Metric
+# Пайплайн задачи распознавания лиц (Face Recognition) с использованием функции потерь ArcFace и метрики Indentification Rate
 
 ---
 
