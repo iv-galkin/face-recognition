@@ -22,7 +22,7 @@
 ---
 
 ## Используемые технологии
-Google Colab, pytorch, scikit-learn, numpy, pandas, matplotlib, scikit-image
+python, jupyter notebook, pytorch, scikit-learn, numpy, pandas, matplotlib, scikit-image
 
 ---
 
