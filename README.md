@@ -1,4 +1,4 @@
-# Пайплайн задачи распознавания лиц (Face Recognition) с использованием функции потерь ArcFace и метрики Identification Rate
+# Пайплайн задачи распознавания лиц (Face Recognition)
 
 ---
 
